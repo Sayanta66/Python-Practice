@@ -1,2 +1,2 @@
-# Python-Practice
-This repository contains python programs that are created by me for coding learning.
+# C++-Practice
+This repository contains C++ programs that are created by me for coding learning.
